@@ -27,7 +27,9 @@ print("d:",d)
 ```
 
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/1e8fabfc-60ba-47ff-9fd8-8ecf81173008)
+
+
 
 ## Result
 Thus,the Python program is executed successfully.
